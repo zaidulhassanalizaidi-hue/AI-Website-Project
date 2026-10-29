@@ -27,9 +27,7 @@ What I Learned
 - How to write prompts for AI
 - How to test website features
 - How to use GitHub to document and submit a project
-##live Website
-  "Open My Website"
-  ( https://smart-culinary-academy.ai.studio)
+
 Live Website
 
 "Open My Website(https://smart-culinary-academy.ai.studio)
